@@ -1,0 +1,26 @@
+{
+  "cwd": "/Users/asial/projects/monacaTemplates/monaca-templates-script/capacitor/capacitor-framework7-v8-core-tab-view",
+  "type": [
+    "web",
+    "capacitor"
+  ],
+  "name": "capacitor-framework7-v8-core-tab-view",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false,
+  "pkg": "io.framework7.myapp",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
